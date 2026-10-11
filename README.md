@@ -24,7 +24,7 @@
 
 | Роль | Участник | Основные задачи |
 |---|---|---|
-| Product / Vision Owner | <Имя> (@<github>) | Сегмент, гипотезы, use cases, скоуп |
+| Product / Vision Owner | Имя (@RamaKurama) | Сегмент, гипотезы, use cases, скоуп |
 
 
 ## 3. Структура репозитория
